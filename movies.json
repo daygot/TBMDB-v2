@@ -1,0 +1,1377 @@
+[{
+  "_id": {
+    "$oid": "5fb73d028965a24c9c8f234b"
+  },
+  "movie_id": 1,
+  "title": "volutpat nunc sit amet metus.",
+  "box_office": 18463181,
+  "release_date": "05/28/1997",
+  "studio": "Mus Foundation",
+  "user_rating": 6,
+  "cast": "Isabeau Castane, Evangelia Grzelczyk, Gradeigh Conlaund, Karalynn Tranfield, Olav Woodhead, Garrot Goozee, Truda Brosio",
+  "genre": "Action",
+  "country": "Malawi",
+  "rating": "PG-13",
+  "language": "English",
+  "director": "Colby Albert"
+},{
+  "_id": {
+    "$oid": "5fb73d218965a24c9c8f234c"
+  },
+  "movie_id": 2,
+  "title": "Aliquam ornare, libero at auctor",
+  "box_office": 93364255,
+  "release_date": "12/14/1998",
+  "studio": "Egestas Lacinia Corp.",
+  "user_rating": 1,
+  "cast": "Jackson Aspden, Ebeneser Hathaway, Orelie Stanyon, Perice Kohter, Wald Learmouth, Easter Newgrosh, Camey Garrigan",
+  "genre": "Drama",
+  "country": "United Arab Emirates",
+  "rating": "G",
+  "language": "Korean",
+  "director": "Joseph Anthony"
+},{
+  "_id": {
+    "$oid": "5fb73d6d8965a24c9c8f234d"
+  },
+  "movie_id": 3,
+  "title": "tristique senectus et netus et",
+  "box_office": 93712238,
+  "release_date": "10/25/2013",
+  "studio": "Netus Institute",
+  "user_rating": 7,
+  "cast": "Ailis Moylan, Heath Gronow, Caria Baccas, Lorrie McMeeking, Truda Brosio, Cornell Zecchinelli, Jerry Scowcraft, Tommie Stollmeyer, Ephraim Plewright",
+  "genre": "Sci-Fi",
+  "country": "Ghana",
+  "rating": "G",
+  "language": "English",
+  "director": "Cleo Maxwell"
+},{
+  "_id": {
+    "$oid": "5fb73d7c8965a24c9c8f234e"
+  },
+  "movie_id": 5,
+  "title": "et, eros. Proin ultrices. Duis",
+  "box_office": 61456553,
+  "release_date": "06/19/1998",
+  "studio": "Orci Ut Inc.",
+  "user_rating": 4,
+  "cast": "Ric Trow, Putnam Harnwell, Matias Connell, Dulcia Duchatel, Margie Andrez, Morley Fratczak, Alyda Malmar",
+  "genre": "Horror",
+  "country": "Philippines",
+  "rating": "PG-13",
+  "language": "Italian",
+  "director": "Samuel Stafford"
+},{
+  "_id": {
+    "$oid": "5fb73d838965a24c9c8f234f"
+  },
+  "movie_id": 6,
+  "title": "ultrices posuere cubilia Curae; Donec",
+  "box_office": 5022789,
+  "release_date": "09/03/1982",
+  "studio": "Proin Institute",
+  "user_rating": 1,
+  "cast": "Karalynn Tranfield, Rayner Nelius, Kath Kidwell, Cynthie Sanchez, Veradis Mancell, Darrel Donnison, Devina Covelle",
+  "genre": "Animation",
+  "country": "Malaysia",
+  "rating": "R",
+  "language": "English",
+  "director": "Clinton Mckay"
+},{
+  "_id": {
+    "$oid": "5fb73d8a8965a24c9c8f2350"
+  },
+  "movie_id": 7,
+  "title": "cubilia Curae; Donec tincidunt. Donec",
+  "box_office": 21156991,
+  "release_date": "02/05/1973",
+  "studio": "Vehicula Risus Foundation",
+  "user_rating": 4,
+  "cast": "",
+  "genre": "War",
+  "country": "Lebanon",
+  "rating": "PG",
+  "language": "French",
+  "director": "Deborah Vaughn"
+},{
+  "_id": {
+    "$oid": "5fb73d908965a24c9c8f2351"
+  },
+  "movie_id": 8,
+  "title": "sollicitudin a, malesuada id, erat.",
+  "box_office": 14500766,
+  "release_date": "02/12/2004",
+  "studio": "Est Vitae Incorporated",
+  "user_rating": 5,
+  "cast": "Isa Grey, Truda Brosio, Lion Hacquel, Page Clemits, Mignonne Gerrens, Tommie Stollmeyer",
+  "genre": "Action",
+  "country": "Bulgaria",
+  "rating": "NC-17",
+  "language": "Hindu",
+  "director": "Uma Palmer"
+},{
+  "_id": {
+    "$oid": "5fb73d968965a24c9c8f2352"
+  },
+  "movie_id": 9,
+  "title": "pharetra sed, hendrerit a, arcu.",
+  "box_office": 56669804,
+  "release_date": "07/16/1971",
+  "studio": "Feugiat Corporation",
+  "user_rating": 1,
+  "cast": "Tamas Felten, Willis Broadley, Byron Spawell, Farand Elcombe, Verna Sare, Hesther Brugsma, Hamish MacTeague",
+  "genre": "Sci-Fi",
+  "country": "Argentina",
+  "rating": "G",
+  "language": "Spanish",
+  "director": "Angela Rasmussen"
+},{
+  "_id": {
+    "$oid": "5fb73d9d8965a24c9c8f2353"
+  },
+  "movie_id": 10,
+  "title": "nonummy ultricies ornare, elit elit",
+  "box_office": 79378740,
+  "release_date": "10/07/2001",
+  "studio": "Egestas A Scelerisque LLC",
+  "user_rating": 7,
+  "cast": "",
+  "genre": "Animation",
+  "country": "Denmark",
+  "rating": "R",
+  "language": "Italian",
+  "director": "Charde Hess"
+},{
+  "_id": {
+    "$oid": "5fb73da38965a24c9c8f2354"
+  },
+  "movie_id": 11,
+  "title": "congue a, aliquet vel, vulputate",
+  "box_office": 96917646,
+  "release_date": "01/03/1969",
+  "studio": "Curae; Donec Tincidunt LLC",
+  "user_rating": 1,
+  "cast": "Cristin Erik, Ax Scneider, Margarete Knibley",
+  "genre": "Drama",
+  "country": "Japan",
+  "rating": "R",
+  "language": "Hindu",
+  "director": "Regina Callahan"
+},{
+  "_id": {
+    "$oid": "5fb73daa8965a24c9c8f2355"
+  },
+  "movie_id": 12,
+  "title": "consectetuer mauris id sapien. Cras",
+  "box_office": 80638421,
+  "release_date": "12/25/1978",
+  "studio": "Sit Ltd",
+  "user_rating": 6,
+  "cast": "Hillie Batrip, Stewart Bickerton, Anabelle Weippert, Lion Hacquel, Ddene Barfoot, Maribelle Murgatroyd",
+  "genre": "Sci-Fi",
+  "country": "Russia",
+  "rating": "G",
+  "language": "Italian",
+  "director": "Nathan Leonard"
+},{
+  "_id": {
+    "$oid": "5fb73db28965a24c9c8f2356"
+  },
+  "movie_id": 13,
+  "title": "nec, mollis vitae, posuere at,",
+  "box_office": 64538796,
+  "release_date": "11/19/1990",
+  "studio": "Non Nisi LLC",
+  "user_rating": 5,
+  "cast": "Evangelia Grzelczyk, Farand Elcombe, Britta Magauran",
+  "genre": "Documentary",
+  "country": "Sweden",
+  "rating": "PG-13",
+  "language": "Hindu",
+  "director": "Cade Austin"
+},{
+  "_id": {
+    "$oid": "5fb73db88965a24c9c8f2357"
+  },
+  "movie_id": 14,
+  "title": "lacus. Quisque purus sapien, gravida",
+  "box_office": 5651531,
+  "release_date": "01/25/2011",
+  "studio": "Enim Corporation",
+  "user_rating": 2,
+  "cast": "Cynthie Sanchez, Timoteo Poyntz, Goldia Duffie, Lisle Carver, Thedric Toogood",
+  "genre": "War",
+  "country": "Papua New Guinea",
+  "rating": "R",
+  "language": "Spanish",
+  "director": "Kevin Compton"
+},{
+  "_id": {
+    "$oid": "5fb73dbe8965a24c9c8f2358"
+  },
+  "movie_id": 15,
+  "title": "dolor elit, pellentesque a, facilisis",
+  "box_office": 48203822,
+  "release_date": "04/21/2016",
+  "studio": "Non Lacinia At Limited",
+  "user_rating": 2,
+  "cast": "Adriane Carwithen",
+  "genre": "Sci-Fi",
+  "country": "Bolivia",
+  "rating": "PG-13",
+  "language": "Mandarin",
+  "director": "Kiona Tanner"
+},{
+  "_id": {
+    "$oid": "5fb73dd08965a24c9c8f2359"
+  },
+  "movie_id": 5,
+  "title": "et, eros. Proin ultrices. Duis",
+  "box_office": 61456553,
+  "release_date": "06/19/1998",
+  "studio": "Orci Ut Inc.",
+  "user_rating": 4,
+  "cast": "Ric Trow, Putnam Harnwell, Matias Connell, Dulcia Duchatel, Margie Andrez, Morley Fratczak, Alyda Malmar",
+  "genre": "Horror",
+  "country": "Philippines",
+  "rating": "PG-13",
+  "language": "Italian",
+  "director": "Samuel Stafford"
+},{
+  "_id": {
+    "$oid": "5fb73dd88965a24c9c8f235a"
+  },
+  "movie_id": 17,
+  "title": "magna. Ut tincidunt orci quis",
+  "box_office": 31727460,
+  "release_date": "04/11/2005",
+  "studio": "Nisl Maecenas Incorporated",
+  "user_rating": 9,
+  "cast": "Doloritas De Paoli, Dulcia Duchatel, Lisle Rodolfi, Julee Leve, Valentina Maultby, Ranna Tucker, Reinwald Illesley, Kellby McMurraya, Franklyn Winkworth",
+  "genre": "Western",
+  "country": "Albania",
+  "rating": "PG-13",
+  "language": "Japanese",
+  "director": "Hyatt Conley"
+},{
+  "_id": {
+    "$oid": "5fb73dde8965a24c9c8f235b"
+  },
+  "movie_id": 18,
+  "title": "dignissim pharetra. Nam ac nulla.",
+  "box_office": 88226105,
+  "release_date": "04/28/2016",
+  "studio": "Ut Inc.",
+  "user_rating": 6,
+  "cast": "Evangelia Grzelczyk, Marietta Kensitt, Lorrie McMeeking, Emili Scales, Barrett Janatka",
+  "genre": "Sci-Fi",
+  "country": "France",
+  "rating": "NC-17",
+  "language": "Japanese",
+  "director": "Ezekiel Austin"
+},{
+  "_id": {
+    "$oid": "5fb73de58965a24c9c8f235c"
+  },
+  "movie_id": 19,
+  "title": "luctus sit amet, faucibus ut,",
+  "box_office": 38278458,
+  "release_date": "09/14/1990",
+  "studio": "Est Nunc Laoreet Incorporated",
+  "user_rating": 10,
+  "cast": "Willis Broadley, Huberto Elderkin, Cyril Velareal, Reinwald Illesley",
+  "genre": "War",
+  "country": "Macedonia",
+  "rating": "PG-13",
+  "language": "German",
+  "director": "Morgan Kidd"
+},{
+  "_id": {
+    "$oid": "5fb73deb8965a24c9c8f235d"
+  },
+  "movie_id": 20,
+  "title": "purus. Duis elementum, dui quis",
+  "box_office": 39746265,
+  "release_date": "04/19/2013",
+  "studio": "Orci Luctus Inc.",
+  "user_rating": 6,
+  "cast": "",
+  "genre": "Drama",
+  "country": "Kuwait",
+  "rating": "PG-13",
+  "language": "English",
+  "director": "Moses Hess"
+},{
+  "_id": {
+    "$oid": "5fb73df18965a24c9c8f235e"
+  },
+  "movie_id": 21,
+  "title": "nisi. Mauris nulla. Integer urna.",
+  "box_office": 39920513,
+  "release_date": "11/07/1989",
+  "studio": "Semper Et Institute",
+  "user_rating": 6,
+  "cast": "Win Vahey, Bonny Beacock, Isabeau Castane",
+  "genre": "Drama",
+  "country": "Croatia",
+  "rating": "NC-17",
+  "language": "Mandarin",
+  "director": "Hadley Webb"
+},{
+  "_id": {
+    "$oid": "5fb73df88965a24c9c8f235f"
+  },
+  "movie_id": 22,
+  "title": "Sed auctor odio a purus.",
+  "box_office": 70366589,
+  "release_date": "04/02/2004",
+  "studio": "A Ultricies Adipiscing Company",
+  "user_rating": 5,
+  "cast": "Goldia Duffie, Nannie Turtle, Heath Gronow, Abbe Fallowne, Carroll Mingard, Marietta Kensitt, Page Clemits, Florian Simeoli, Antoni Fierro",
+  "genre": "Sci-Fi",
+  "country": "Philippines",
+  "rating": "G",
+  "language": "Hindu",
+  "director": "Rama Roth"
+},{
+  "_id": {
+    "$oid": "5fb73dff8965a24c9c8f2360"
+  },
+  "movie_id": 23,
+  "title": "molestie tortor nibh sit amet",
+  "box_office": 99453113,
+  "release_date": "12/09/2015",
+  "studio": "Nullam Suscipit Industries",
+  "user_rating": 9,
+  "cast": "Ddene Barfoot, Veriee Tutsell, Sibby Caddell, Veradis Mancell, Nannie Turtle, Tirrell Pinar, Gusella MacCafferty",
+  "genre": "Sci-Fi",
+  "country": "Malaysia",
+  "rating": "PG-13",
+  "language": "French",
+  "director": "Cailin Hayes"
+},{
+  "_id": {
+    "$oid": "5fb73e068965a24c9c8f2361"
+  },
+  "movie_id": 24,
+  "title": "at augue id ante dictum",
+  "box_office": 95855039,
+  "release_date": "09/26/2013",
+  "studio": "Nisi Magna Sed PC",
+  "user_rating": 7,
+  "cast": "Maribelle Murgatroyd, Caterina Bice, Raul Venes, Hesther Brugsma, Cornell Zecchinelli, Stephanie Bamsey",
+  "genre": "Comedy",
+  "country": "Brazil",
+  "rating": "PG-13",
+  "language": "Italian",
+  "director": "Madonna Christensen"
+},{
+  "_id": {
+    "$oid": "5fb73e0c8965a24c9c8f2362"
+  },
+  "movie_id": 25,
+  "title": "est, congue a, aliquet vel,",
+  "box_office": 89007833,
+  "release_date": "03/01/2012",
+  "studio": "Ut Sem Corporation",
+  "user_rating": 4,
+  "cast": "Meredithe Tuerena, Anabelle Weippert, Adriane Carwithen",
+  "genre": "Animation",
+  "country": "Tunisia",
+  "rating": "PG-13",
+  "language": "Japanese",
+  "director": "Sybil Haley"
+},{
+  "_id": {
+    "$oid": "5fb73e138965a24c9c8f2363"
+  },
+  "movie_id": 26,
+  "title": "aliquam arcu. Aliquam ultrices iaculis",
+  "box_office": 95874188,
+  "release_date": "03/28/1990",
+  "studio": "Vehicula Risus LLP",
+  "user_rating": 6,
+  "cast": "",
+  "genre": "Horror",
+  "country": "Germany",
+  "rating": "G",
+  "language": "Mandarin",
+  "director": "Audra Spencer"
+},{
+  "_id": {
+    "$oid": "5fb73e1a8965a24c9c8f2364"
+  },
+  "movie_id": 27,
+  "title": "arcu. Vestibulum ut eros non",
+  "box_office": 11915992,
+  "release_date": "09/30/2010",
+  "studio": "Ac Limited",
+  "user_rating": 8,
+  "cast": "",
+  "genre": "Horror",
+  "country": "Lebanon",
+  "rating": "R",
+  "language": "Italian",
+  "director": "Dane Coffey"
+},{
+  "_id": {
+    "$oid": "5fb73e2b8965a24c9c8f2365"
+  },
+  "movie_id": 28,
+  "title": "nec, diam. Duis mi enim,",
+  "box_office": 86261230,
+  "release_date": "08/10/1983",
+  "studio": "Duis Limited",
+  "user_rating": 6,
+  "cast": "Ric Trow, Niccolo Rance, Truda Brosio, Melba Catford",
+  "genre": "Sci-Fi",
+  "country": "Nigeria",
+  "rating": "PG-13",
+  "language": "German",
+  "director": "Quynn Oneil"
+},{
+  "_id": {
+    "$oid": "5fb73e338965a24c9c8f2366"
+  },
+  "movie_id": 29,
+  "title": "Proin eget odio. Aliquam vulputate",
+  "box_office": 68979563,
+  "release_date": "08/14/1986",
+  "studio": "Est Mollis LLC",
+  "user_rating": 9,
+  "cast": "Tamas Felten, Rayner Nelius, Maggee Zammitt, Gradeigh Conlaund, Mommy Cuthbert, Orelie Stanyon",
+  "genre": "Comedy",
+  "country": "Haiti",
+  "rating": "R",
+  "language": "German",
+  "director": "Allegra Zamora"
+},{
+  "_id": {
+    "$oid": "5fb73e428965a24c9c8f2367"
+  },
+  "movie_id": 30,
+  "title": "ipsum dolor sit amet, consectetuer",
+  "box_office": 8376662,
+  "release_date": "12/31/2003",
+  "studio": "Eu Limited",
+  "user_rating": 5,
+  "cast": "Angie Flatt, Heather Measey, Garrot Goozee, Hannah Griffoen, Thedric Toogood, Byron Spawell, Bonny Beacock",
+  "genre": "War",
+  "country": "Netherlands",
+  "rating": "R",
+  "language": "Hindu",
+  "director": "Charles Herrera"
+},{
+  "_id": {
+    "$oid": "5fb73e488965a24c9c8f2368"
+  },
+  "movie_id": 31,
+  "title": "Aliquam tincidunt, nunc ac mattis",
+  "box_office": 72591608,
+  "release_date": "03/28/1983",
+  "studio": "Dictum Phasellus In Ltd",
+  "user_rating": 9,
+  "cast": "Son Verman, Anatollo Snasdell, Veradis Mancell, Sheffy McFee, Tommi Steckings",
+  "genre": "Horror",
+  "country": "Moldova",
+  "rating": "R",
+  "language": "Korean",
+  "director": "Jocelyn Case"
+},{
+  "_id": {
+    "$oid": "5fb73e6d8965a24c9c8f2369"
+  },
+  "movie_id": 32,
+  "title": "fringilla, porttitor vulputate, posuere vulputate,",
+  "box_office": 18674405,
+  "release_date": "06/19/1972",
+  "studio": "A Associates",
+  "user_rating": 10,
+  "cast": "Pat Kersey",
+  "genre": "Sci-Fi",
+  "country": "Tonga",
+  "rating": "G",
+  "language": "Hindu",
+  "director": "Trevor Curtis"
+},{
+  "_id": {
+    "$oid": "5fb73e768965a24c9c8f236a"
+  },
+  "movie_id": 33,
+  "title": "risus. Morbi metus. Vivamus euismod",
+  "box_office": 77996703,
+  "release_date": "07/14/1974",
+  "studio": "Adipiscing Foundation",
+  "user_rating": 4,
+  "cast": "Cad Maha, Ulla Escudier, Rayner Nelius",
+  "genre": "Documentary",
+  "country": "Syria",
+  "rating": "G",
+  "language": "French",
+  "director": "Beau Mcdaniel"
+},{
+  "_id": {
+    "$oid": "5fb73e7d8965a24c9c8f236b"
+  },
+  "movie_id": 34,
+  "title": "lectus sit amet luctus vulputate,",
+  "box_office": 13644238,
+  "release_date": "03/16/2003",
+  "studio": "Dictum LLC",
+  "user_rating": 8,
+  "cast": "Eleonore Olorenshaw, Abbe Fallowne, Caryl Kalberer, Britta Magauran",
+  "genre": "War",
+  "country": "Brazil",
+  "rating": "PG",
+  "language": "Hindu",
+  "director": "Abigail Mckay"
+},{
+  "_id": {
+    "$oid": "5fb73e838965a24c9c8f236c"
+  },
+  "movie_id": 35,
+  "title": "mollis non, cursus non, egestas",
+  "box_office": 97784560,
+  "release_date": "01/29/2011",
+  "studio": "Posuere Cubilia Industries",
+  "user_rating": 2,
+  "cast": "Florian Simeoli, Veradis Mancell, Sibby Caddell, Cad Maha, Kellby McMurraya",
+  "genre": "Animation",
+  "country": "Czech Republic",
+  "rating": "R",
+  "language": "Spanish",
+  "director": "Alexander Farmer"
+},{
+  "_id": {
+    "$oid": "5fb73e898965a24c9c8f236d"
+  },
+  "movie_id": 36,
+  "title": "quam a felis ullamcorper viverra.",
+  "box_office": 5771967,
+  "release_date": "06/24/2009",
+  "studio": "Dui Fusce Diam LLC",
+  "user_rating": 2,
+  "cast": "Nannie Turtle, Ephraim Plewright, Ddene Barfoot, Ernaline Ubsdell, Gardie Attoe, Orelie Stanyon",
+  "genre": "Musical",
+  "country": "Haiti",
+  "rating": "R",
+  "language": "Korean",
+  "director": "Xandra Eaton"
+},{
+  "_id": {
+    "$oid": "5fb73e908965a24c9c8f236e"
+  },
+  "movie_id": 37,
+  "title": "non arcu. Vivamus sit amet",
+  "box_office": 48816624,
+  "release_date": "01/10/1967",
+  "studio": "Arcu Institute",
+  "user_rating": 3,
+  "cast": "Channa Thaxton, Sherie Bossom, Paten Addison, Tommi Steckings, Kellby McMurraya, Carroll Mingard",
+  "genre": "Documentary",
+  "country": "Czech Republic",
+  "rating": "PG-13",
+  "language": "Greek",
+  "director": "Amethyst Hansen"
+},{
+  "_id": {
+    "$oid": "5fb73e968965a24c9c8f236f"
+  },
+  "movie_id": 38,
+  "title": "luctus. Curabitur egestas nunc sed",
+  "box_office": 75234285,
+  "release_date": "12/06/1987",
+  "studio": "Amet Risus Donec Corporation",
+  "user_rating": 9,
+  "cast": "Talbert Hollingdale, Adriane Carwithen",
+  "genre": "Horror",
+  "country": "Panama",
+  "rating": "PG-13",
+  "language": "Spanish",
+  "director": "Silas Rowland"
+},{
+  "_id": {
+    "$oid": "5fb73e9c8965a24c9c8f2370"
+  },
+  "movie_id": 39,
+  "title": "odio semper cursus. Integer mollis.",
+  "box_office": 53763352,
+  "release_date": "12/10/1968",
+  "studio": "Eu Erat Associates",
+  "user_rating": 4,
+  "cast": "Isa Grey, Franklyn Winkworth, Morley Fratczak, Camey Garrigan, Tommi Steckings",
+  "genre": "Western",
+  "country": "Denmark",
+  "rating": "PG-13",
+  "language": "French",
+  "director": "Brandon Pickett"
+},{
+  "_id": {
+    "$oid": "5fb73ea38965a24c9c8f2371"
+  },
+  "movie_id": 40,
+  "title": "sodales purus, in molestie tortor",
+  "box_office": 59091492,
+  "release_date": "06/23/1988",
+  "studio": "Ac LLP",
+  "user_rating": 5,
+  "cast": "Emmott Grievson, Rayner Nelius, Benjamen Kynsey, Valentina Maultby, Darci Deverille",
+  "genre": "Comedy",
+  "country": "Ecuador",
+  "rating": "PG-13",
+  "language": "French",
+  "director": "Amena Thompson"
+},{
+  "_id": {
+    "$oid": "5fb73eaa8965a24c9c8f2372"
+  },
+  "movie_id": 41,
+  "title": "est. Nunc ullamcorper, velit in",
+  "box_office": 97984564,
+  "release_date": "03/03/2017",
+  "studio": "Sed Pede Foundation",
+  "user_rating": 1,
+  "cast": "Mattie Tipple, Quinlan Heakins, Ebeneser Hathaway, Marietta Kensitt, Huberto Elderkin, Sheffy McFee",
+  "genre": "Documentary",
+  "country": "Mexico",
+  "rating": "G",
+  "language": "Spanish",
+  "director": "Sierra Best"
+},{
+  "_id": {
+    "$oid": "5fb73eb08965a24c9c8f2373"
+  },
+  "movie_id": 42,
+  "title": "Etiam imperdiet dictum magna. Ut",
+  "box_office": 50459300,
+  "release_date": "06/02/1988",
+  "studio": "Id Enim Curabitur LLC",
+  "user_rating": 3,
+  "cast": "Lucia Fitzroy, Dulcia Duchatel, Orelie Stanyon, Benjamen Kynsey, Doloritas De Paoli, Cad Maha",
+  "genre": "War",
+  "country": "Guatemala",
+  "rating": "PG",
+  "language": "Mandarin",
+  "director": "Clark Haley"
+},{
+  "_id": {
+    "$oid": "5fb73eb78965a24c9c8f2374"
+  },
+  "movie_id": 43,
+  "title": "ipsum sodales purus, in molestie",
+  "box_office": 95690862,
+  "release_date": "09/20/1979",
+  "studio": "A Scelerisque Sed Inc.",
+  "user_rating": 7,
+  "cast": "Talbert Hollingdale, Marietta Kensitt, Derek Skyram, Niccolo Rance, Flory Hallowes, Byron Spawell, Hilliary Hyatt, Claudina Roscow",
+  "genre": "War",
+  "country": "Netherlands",
+  "rating": "R",
+  "language": "French",
+  "director": "Christine Humphrey"
+},{
+  "_id": {
+    "$oid": "5fb73ebe8965a24c9c8f2375"
+  },
+  "movie_id": 44,
+  "title": "nec tempus mauris erat eget",
+  "box_office": 48555470,
+  "release_date": "07/21/1978",
+  "studio": "Posuere Vulputate Lacus LLC",
+  "user_rating": 5,
+  "cast": "Ferdie Rodwell, Zarla Briston, Heather Measey, Garrot Goozee, Pavla Blench, Essy Plimmer",
+  "genre": "War",
+  "country": "Norway",
+  "rating": "PG",
+  "language": "French",
+  "director": "Elvis Bond"
+},{
+  "_id": {
+    "$oid": "5fb73ec98965a24c9c8f2376"
+  },
+  "movie_id": 45,
+  "title": "mauris, aliquam eu, accumsan sed,",
+  "box_office": 16629109,
+  "release_date": "05/12/1981",
+  "studio": "Penatibus Et Magnis PC",
+  "user_rating": 6,
+  "cast": "Tito Byng",
+  "genre": "Animation",
+  "country": "Croatia",
+  "rating": "R",
+  "language": "French",
+  "director": "Caryn Freeman"
+},{
+  "_id": {
+    "$oid": "5fb73ecf8965a24c9c8f2377"
+  },
+  "movie_id": 46,
+  "title": "blandit viverra. Donec tempus, lorem",
+  "box_office": 30067489,
+  "release_date": "08/20/2005",
+  "studio": "Fusce Inc.",
+  "user_rating": 1,
+  "cast": "Trenna Whitehouse, Garrot Goozee, Reggi Greswell, Dannel Trood, Ric Trow, Maribelle Murgatroyd, Tito Byng, Margalit Tock, Huntley Gerrets",
+  "genre": "Comedy",
+  "country": "United Arab Emirates",
+  "rating": "PG",
+  "language": "Greek",
+  "director": "Kiara Kinney"
+},{
+  "_id": {
+    "$oid": "5fb73ed58965a24c9c8f2378"
+  },
+  "movie_id": 47,
+  "title": "vitae, erat. Vivamus nisi. Mauris",
+  "box_office": 76273237,
+  "release_date": "03/14/2013",
+  "studio": "Dolor Nulla Ltd",
+  "user_rating": 9,
+  "cast": "",
+  "genre": "Sci-Fi",
+  "country": "Malaysia",
+  "rating": "PG",
+  "language": "Korean",
+  "director": "Nicholas Lowe"
+},{
+  "_id": {
+    "$oid": "5fb73edc8965a24c9c8f2379"
+  },
+  "movie_id": 48,
+  "title": "ultrices, mauris ipsum porta elit,",
+  "box_office": 38659092,
+  "release_date": "05/23/1982",
+  "studio": "Quisque Ltd",
+  "user_rating": 2,
+  "cast": "Livvyy Sanz, Rhodie Carreyette, Emmott Grievson, Karalynn Tranfield, Gray Cummungs, Maurice Avent, Thedric Toogood, Alwyn Androck, Ansell Easthope",
+  "genre": "Animation",
+  "country": "Papua New Guinea",
+  "rating": "NC-17",
+  "language": "German",
+  "director": "Ian Rivera"
+},{
+  "_id": {
+    "$oid": "5fb73ee28965a24c9c8f237a"
+  },
+  "movie_id": 49,
+  "title": "ut lacus. Nulla tincidunt, neque",
+  "box_office": 96812731,
+  "release_date": "09/21/2008",
+  "studio": "Enim Industries",
+  "user_rating": 6,
+  "cast": "Zarla Briston",
+  "genre": "Documentary",
+  "country": "Yemen",
+  "rating": "R",
+  "language": "French",
+  "director": "Clare Christian"
+},{
+  "_id": {
+    "$oid": "5fb73ee78965a24c9c8f237b"
+  },
+  "movie_id": 50,
+  "title": "mauris elit, dictum eu, eleifend",
+  "box_office": 30095164,
+  "release_date": "04/03/1989",
+  "studio": "Ut Erat Sed Corporation",
+  "user_rating": 1,
+  "cast": "Hammad Dinneen",
+  "genre": "Drama",
+  "country": "Brazil",
+  "rating": "PG-13",
+  "language": "French",
+  "director": "Amber Hampton"
+},{
+  "_id": {
+    "$oid": "5fb73f0f8965a24c9c8f237c"
+  },
+  "movie_id": 51,
+  "title": "enim. Suspendisse aliquet, sem ut",
+  "box_office": 42403745,
+  "release_date": "12/25/2006",
+  "studio": "Donec Egestas Corporation",
+  "user_rating": 7,
+  "cast": "Ernaline Ubsdell, Tamas Felten, Gaylene Oluwatoyin, Querida Nucciotti, Stewart Bickerton",
+  "genre": "Sci-Fi",
+  "country": "South Africa",
+  "rating": "R",
+  "language": "Japanese",
+  "director": "Portia Kelley"
+},{
+  "_id": {
+    "$oid": "5fb73f1b8965a24c9c8f237d"
+  },
+  "movie_id": 52,
+  "title": "Nam consequat dolor vitae dolor.",
+  "box_office": 87209592,
+  "release_date": "08/29/1995",
+  "studio": "Vehicula Et Foundation",
+  "user_rating": 2,
+  "cast": "Julee Leve, Amandi Washtell, Hammad Dinneen, Lorine Champniss, Christabel Conring, Quinlan Heakins, Magdalen Hulance, Livvyy Sanz",
+  "genre": "Musical",
+  "country": "Norway",
+  "rating": "PG-13",
+  "language": "English",
+  "director": "Ira Griffith"
+},{
+  "_id": {
+    "$oid": "5fb73f218965a24c9c8f237e"
+  },
+  "movie_id": 53,
+  "title": "sodales purus, in molestie tortor",
+  "box_office": 28758713,
+  "release_date": "08/06/1971",
+  "studio": "Facilisis Eget Foundation",
+  "user_rating": 10,
+  "cast": "Nannie Turtle, Margarete Knibley, Flory Hallowes, Janith Dibner, Della Lidyard, Cad Maha, Page Clemits, Aggi Scanderet, Zarla Briston",
+  "genre": "Documentary",
+  "country": "Syria",
+  "rating": "R",
+  "language": "Korean",
+  "director": "Byron Stanton"
+},{
+  "_id": {
+    "$oid": "5fb73f268965a24c9c8f237f"
+  },
+  "movie_id": 54,
+  "title": "laoreet ipsum. Curabitur consequat, lectus",
+  "box_office": 85132176,
+  "release_date": "04/28/2004",
+  "studio": "Dictum Proin Eget Institute",
+  "user_rating": 6,
+  "cast": "Margalit Tock, Del Cooksey, Sheffy McFee",
+  "genre": "Comedy",
+  "country": "Philippines",
+  "rating": "NC-17",
+  "language": "Spanish",
+  "director": "Porter Monroe"
+},{
+  "_id": {
+    "$oid": "5fb73f2d8965a24c9c8f2380"
+  },
+  "movie_id": 55,
+  "title": "tincidunt, neque vitae semper egestas,",
+  "box_office": 36456660,
+  "release_date": "03/24/2000",
+  "studio": "Elementum Company",
+  "user_rating": 6,
+  "cast": "Rhodie Carreyette, Winny Iveson, Willis Broadley, Elihu Ende, Sibby Caddell",
+  "genre": "Animation",
+  "country": "Kuwait",
+  "rating": "NC-17",
+  "language": "German",
+  "director": "Brent Ruiz"
+},{
+  "_id": {
+    "$oid": "5fb73f338965a24c9c8f2381"
+  },
+  "movie_id": 56,
+  "title": "lobortis mauris. Suspendisse aliquet molestie",
+  "box_office": 69559574,
+  "release_date": "07/16/1991",
+  "studio": "Magna Phasellus Dolor Consulting",
+  "user_rating": 1,
+  "cast": "Lisle Carver, Florian Simeoli, Doloritas De Paoli, Magdalen Hulance, Alfredo Risman, Idalia Druhan",
+  "genre": "Horror",
+  "country": "Ghana",
+  "rating": "PG",
+  "language": "German",
+  "director": "Marny Weber"
+},{
+  "_id": {
+    "$oid": "5fb73f398965a24c9c8f2382"
+  },
+  "movie_id": 57,
+  "title": "nec, malesuada ut, sem. Nulla",
+  "box_office": 13719572,
+  "release_date": "03/05/2014",
+  "studio": "Ipsum Ac Mi Inc.",
+  "user_rating": 10,
+  "cast": "Devina Covelle",
+  "genre": "Musical",
+  "country": "United Arab Emirates",
+  "rating": "PG",
+  "language": "Greek",
+  "director": "Fleur Poole"
+},{
+  "_id": {
+    "$oid": "5fb73f3f8965a24c9c8f2383"
+  },
+  "movie_id": 58,
+  "title": "orci, consectetuer euismod est arcu",
+  "box_office": 61529502,
+  "release_date": "10/25/1987",
+  "studio": "Accumsan Corporation",
+  "user_rating": 5,
+  "cast": "Goldia Duffie, Amandi Washtell, Angie Flatt, Chrisy Theobalds, Tito Byng, Brandie Meineck, Elihu Ende",
+  "genre": "Sci-Fi",
+  "country": "Malawi",
+  "rating": "G",
+  "language": "Hindu",
+  "director": "Mona Preston"
+},{
+  "_id": {
+    "$oid": "5fb73f458965a24c9c8f2384"
+  },
+  "movie_id": 59,
+  "title": "tempus, lorem fringilla ornare placerat,",
+  "box_office": 46960036,
+  "release_date": "06/20/2007",
+  "studio": "Est Mauris Eu Company",
+  "user_rating": 3,
+  "cast": "Elihu Ende",
+  "genre": "Drama",
+  "country": "Russia",
+  "rating": "PG",
+  "language": "Hindu",
+  "director": "Timothy Neal"
+},{
+  "_id": {
+    "$oid": "5fb73f4e8965a24c9c8f2385"
+  },
+  "movie_id": 60,
+  "title": "augue ac ipsum. Phasellus vitae",
+  "box_office": 11865464,
+  "release_date": "06/20/1971",
+  "studio": "Cras Dolor Dolor Company",
+  "user_rating": 9,
+  "cast": "Hilliary Hyatt, Chaddy Dumphry, Solomon Pharro",
+  "genre": "Documentary",
+  "country": "Moldova",
+  "rating": "R",
+  "language": "German",
+  "director": "Natalie Acevedo"
+},{
+  "_id": {
+    "$oid": "5fb73f548965a24c9c8f2386"
+  },
+  "movie_id": 61,
+  "title": "In faucibus. Morbi vehicula. Pellentesque",
+  "box_office": 16159487,
+  "release_date": "03/26/2010",
+  "studio": "Eu Metus In PC",
+  "user_rating": 10,
+  "cast": "Veriee Tutsell, Mommy Cuthbert, Hamish MacTeague, Stefania Frensche, Paulina Sturzaker, Reggi Greswell, Thedric Toogood",
+  "genre": "Documentary",
+  "country": "Yemen",
+  "rating": "PG",
+  "language": "French",
+  "director": "Amena Walls"
+},{
+  "_id": {
+    "$oid": "5fb73f598965a24c9c8f2387"
+  },
+  "movie_id": 62,
+  "title": "consequat enim diam vel arcu.",
+  "box_office": 27430281,
+  "release_date": "10/03/2016",
+  "studio": "Neque Consulting",
+  "user_rating": 10,
+  "cast": "Heath Gronow, Cynthie Sanchez, Brandie Meineck, Abbe Fallowne, Mabelle Claiton, Page Clemits, Orella Style, Ephraim Plewright",
+  "genre": "Western",
+  "country": "Bulgaria",
+  "rating": "NC-17",
+  "language": "Greek",
+  "director": "Aidan Lloyd"
+},{
+  "_id": {
+    "$oid": "5fb73f5f8965a24c9c8f2388"
+  },
+  "movie_id": 63,
+  "title": "nulla. Cras eu tellus eu",
+  "box_office": 56068532,
+  "release_date": "09/05/1977",
+  "studio": "Rhoncus Corporation",
+  "user_rating": 6,
+  "cast": "Lisle Rodolfi, Barrett Janatka, Kellby McMurraya, Daven Ingledew, Isa Grey, Quinlan Heakins, Willis Broadley, Ric Trow, Caryl Kalberer, Sheffy McFee",
+  "genre": "Musical",
+  "country": "Ireland",
+  "rating": "NC-17",
+  "language": "French",
+  "director": "Rinah Green"
+},{
+  "_id": {
+    "$oid": "5fb73f648965a24c9c8f2389"
+  },
+  "movie_id": 64,
+  "title": "pede. Nunc sed orci lobortis",
+  "box_office": 27480113,
+  "release_date": "10/17/2008",
+  "studio": "Fermentum Fermentum Arcu Ltd",
+  "user_rating": 1,
+  "cast": "Zarla Briston, Alfredo Risman, Kalle Ajsik, Tirrell Pinar",
+  "genre": "Musical",
+  "country": "Haiti",
+  "rating": "PG-13",
+  "language": "Hindu",
+  "director": "Ali Mccormick"
+},{
+  "_id": {
+    "$oid": "5fb73f6a8965a24c9c8f238a"
+  },
+  "movie_id": 65,
+  "title": "Sed nec metus facilisis lorem",
+  "box_office": 53561471,
+  "release_date": "03/25/1992",
+  "studio": "Nunc Institute",
+  "user_rating": 3,
+  "cast": "Carce Yeatman, Veradis Mancell, Tamas Felten, Corrinne Dutnall, Lucia Fitzroy, Cad Maha, Antoni Fierro",
+  "genre": "Animation",
+  "country": "Nigeria",
+  "rating": "NC-17",
+  "language": "Greek",
+  "director": "Gil Russell"
+},{
+  "_id": {
+    "$oid": "5fb73f7b8965a24c9c8f238b"
+  },
+  "movie_id": 66,
+  "title": "ridiculus mus. Aenean eget magna.",
+  "box_office": 36935704,
+  "release_date": "01/06/2005",
+  "studio": "Elit Foundation",
+  "user_rating": 7,
+  "cast": "Channa Thaxton, Kath Kidwell, Gustav Preshous",
+  "genre": "Documentary",
+  "country": "Ireland",
+  "rating": "R",
+  "language": "Hindu",
+  "director": "Brynn Benson"
+},{
+  "_id": {
+    "$oid": "5fb73f818965a24c9c8f238c"
+  },
+  "movie_id": 67,
+  "title": "tincidunt, neque vitae semper egestas,",
+  "box_office": 93671660,
+  "release_date": "03/12/2013",
+  "studio": "Pellentesque Ut Ipsum Limited",
+  "user_rating": 3,
+  "cast": "Alwyn Androck, Rey Micheu, Putnam Harnwell, Pat Kersey",
+  "genre": "Documentary",
+  "country": "Ukraine",
+  "rating": "NC-17",
+  "language": "Greek",
+  "director": "Hyatt Rice"
+},{
+  "_id": {
+    "$oid": "5fb73f888965a24c9c8f238d"
+  },
+  "movie_id": 68,
+  "title": "orci. Donec nibh. Quisque nonummy",
+  "box_office": 17832626,
+  "release_date": "11/17/2000",
+  "studio": "Sollicitudin Adipiscing Ligula Limited",
+  "user_rating": 7,
+  "cast": "Carroll Mingard, Doloritas De Paoli, Stephanie Bamsey, Mommy Cuthbert, Sheffy McFee, Devina Covelle, Florian Simeoli, Ailis Moylan, Perice Kohter, Caryl Kalberer",
+  "genre": "Horror",
+  "country": "Malaysia",
+  "rating": "PG-13",
+  "language": "Mandarin",
+  "director": "Whilemina Craft"
+},{
+  "_id": {
+    "$oid": "5fb73f908965a24c9c8f238e"
+  },
+  "movie_id": 69,
+  "title": "metus. In lorem. Donec elementum,",
+  "box_office": 23106993,
+  "release_date": "12/09/1969",
+  "studio": "Libero Integer In Associates",
+  "user_rating": 10,
+  "cast": "Sheffy McFee, Margalit Tock, Caterina Bice, Dulcia Duchatel, Niccolo Rance, Orella Style",
+  "genre": "Musical",
+  "country": "Nigeria",
+  "rating": "R",
+  "language": "French",
+  "director": "Ahmed Abbott"
+},{
+  "_id": {
+    "$oid": "5fb73f968965a24c9c8f238f"
+  },
+  "movie_id": 70,
+  "title": "leo. Vivamus nibh dolor, nonummy",
+  "box_office": 15353128,
+  "release_date": "04/19/1986",
+  "studio": "Cras Convallis LLC",
+  "user_rating": 2,
+  "cast": "Dyann Reith, Truda Brosio, Haslett Gennrich, Veriee Tutsell, Angie Flatt, Nikolos Kohter, Heather Measey",
+  "genre": "Western",
+  "country": "Guatemala",
+  "rating": "R",
+  "language": "Japanese",
+  "director": "Felix Campbell"
+},{
+  "_id": {
+    "$oid": "5fb73f9d8965a24c9c8f2390"
+  },
+  "movie_id": 71,
+  "title": "ultrices iaculis odio. Nam interdum",
+  "box_office": 86241562,
+  "release_date": "05/20/1986",
+  "studio": "Cursus LLP",
+  "user_rating": 4,
+  "cast": "Dannel Trood",
+  "genre": "Action",
+  "country": "Thailand",
+  "rating": "NC-17",
+  "language": "Greek",
+  "director": "Steven Bryant"
+},{
+  "_id": {
+    "$oid": "5fb73fa38965a24c9c8f2391"
+  },
+  "movie_id": 72,
+  "title": "egestas lacinia. Sed congue, elit",
+  "box_office": 61749454,
+  "release_date": "10/17/1982",
+  "studio": "Phasellus In LLP",
+  "user_rating": 10,
+  "cast": "Rayner Nelius, Tamas Felten, Chaddy Dumphry, Emili Scales, Ebeneser Hathaway",
+  "genre": "Musical",
+  "country": "Albania",
+  "rating": "PG-13",
+  "language": "German",
+  "director": "Alfonso Craft"
+},{
+  "_id": {
+    "$oid": "5fb73faa8965a24c9c8f2392"
+  },
+  "movie_id": 73,
+  "title": "magna. Duis dignissim tempor arcu.",
+  "box_office": 53542245,
+  "release_date": "02/10/1989",
+  "studio": "Nec Ante LLP",
+  "user_rating": 8,
+  "cast": "Tommie Stollmeyer, Eleanora Antonnikov",
+  "genre": "Western",
+  "country": "Mali",
+  "rating": "NC-17",
+  "language": "German",
+  "director": "Xyla Ramos"
+},{
+  "_id": {
+    "$oid": "5fb73fb38965a24c9c8f2393"
+  },
+  "movie_id": 74,
+  "title": "Ut tincidunt orci quis lectus.",
+  "box_office": 55586920,
+  "release_date": "11/29/1977",
+  "studio": "Tristique Aliquet Corp.",
+  "user_rating": 7,
+  "cast": "Valentina Maultby, Rayner Nelius, Kellby McMurraya, Quinlan Heakins, Amandi Washtell, Elihu Ende, Pat Kersey, Eyde Loomes, Morley Fratczak, Ax Scneider",
+  "genre": "Horror",
+  "country": "Lebanon",
+  "rating": "PG-13",
+  "language": "Mandarin",
+  "director": "Zeus Key"
+},{
+  "_id": {
+    "$oid": "5fb73fba8965a24c9c8f2394"
+  },
+  "movie_id": 75,
+  "title": "Nulla facilisis. Suspendisse commodo tincidunt",
+  "box_office": 77411966,
+  "release_date": "09/11/2000",
+  "studio": "Ligula Consectetuer Consulting",
+  "user_rating": 8,
+  "cast": "Ailis Moylan, Olav Woodhead, Raul Venes, Maribelle Murgatroyd, Marietta Kensitt, Brent Kimpton",
+  "genre": "Drama",
+  "country": "Denmark",
+  "rating": "NC-17",
+  "language": "Greek",
+  "director": "Madonna Nolan"
+},{
+  "_id": {
+    "$oid": "5fb73fc08965a24c9c8f2395"
+  },
+  "movie_id": 76,
+  "title": "leo. Morbi neque tellus, imperdiet",
+  "box_office": 48816072,
+  "release_date": "12/17/1983",
+  "studio": "Aliquam Tincidunt Nunc Inc.",
+  "user_rating": 8,
+  "cast": "Gardie Attoe, Hamish MacTeague, Brent Kimpton, Melba Catford, Stewart Bickerton, Cristin Erik",
+  "genre": "Western",
+  "country": "Mali",
+  "rating": "G",
+  "language": "Italian",
+  "director": "Yuli Bright"
+},{
+  "_id": {
+    "$oid": "5fb73fc78965a24c9c8f2396"
+  },
+  "movie_id": 77,
+  "title": "malesuada vel, convallis in, cursus",
+  "box_office": 63340681,
+  "release_date": "10/17/1970",
+  "studio": "Fusce Limited",
+  "user_rating": 9,
+  "cast": "Edi Milsap, Stefania Frensche, Idalia Druhan, Emili Scales, Eleonore Olorenshaw, Clare Britten, Margie Andrez, Caryl Kalberer, Farand Elcombe, Essy Plimmer",
+  "genre": "Horror",
+  "country": "Sweden",
+  "rating": "PG-13",
+  "language": "Japanese",
+  "director": "Orlando Cardenas"
+},{
+  "_id": {
+    "$oid": "5fb73fcc8965a24c9c8f2397"
+  },
+  "movie_id": 78,
+  "title": "non ante bibendum ullamcorper. Duis",
+  "box_office": 23368969,
+  "release_date": "03/17/2011",
+  "studio": "Fermentum Vel Mauris Corp.",
+  "user_rating": 1,
+  "cast": "Daven Ingledew, Rayner Nelius, Halsy Sattin, Heather Measey, Matias Connell, Angie Flatt, Darci Deverille, Hannah Griffoen",
+  "genre": "Horror",
+  "country": "Japan",
+  "rating": "G",
+  "language": "Greek",
+  "director": "Garrison Collins"
+},{
+  "_id": {
+    "$oid": "5fb73fd88965a24c9c8f2398"
+  },
+  "movie_id": 79,
+  "title": "neque vitae semper egestas, urna",
+  "box_office": 14798351,
+  "release_date": "01/05/1993",
+  "studio": "Massa Integer Vitae Industries",
+  "user_rating": 4,
+  "cast": "Clarine Baison, Page Clemits",
+  "genre": "Action",
+  "country": "Norway",
+  "rating": "PG-13",
+  "language": "Japanese",
+  "director": "Vera Church"
+},{
+  "_id": {
+    "$oid": "5fb73fdf8965a24c9c8f2399"
+  },
+  "movie_id": 80,
+  "title": "Phasellus elit pede, malesuada vel,",
+  "box_office": 12767550,
+  "release_date": "06/18/2017",
+  "studio": "Ut Molestie Foundation",
+  "user_rating": 1,
+  "cast": "Hilliary Hyatt, Ric Trow, Heath Gronow, Cece Tristram, Florian Simeoli",
+  "genre": "Drama",
+  "country": "Netherlands",
+  "rating": "PG",
+  "language": "Hindu",
+  "director": "Cathleen Parks"
+},{
+  "_id": {
+    "$oid": "5fb73fe48965a24c9c8f239a"
+  },
+  "movie_id": 81,
+  "title": "Quisque imperdiet, erat nonummy ultricies",
+  "box_office": 97478017,
+  "release_date": "07/09/1985",
+  "studio": "Mollis Duis Sit Corporation",
+  "user_rating": 6,
+  "cast": "Essy Plimmer, Ranna Tucker, Kalle Ajsik",
+  "genre": "Action",
+  "country": "Lebanon",
+  "rating": "PG-13",
+  "language": "Greek",
+  "director": "Boris Giles"
+},{
+  "_id": {
+    "$oid": "5fb73fea8965a24c9c8f239b"
+  },
+  "movie_id": 82,
+  "title": "Cum sociis natoque penatibus et",
+  "box_office": 31838198,
+  "release_date": "05/21/1983",
+  "studio": "Dictum Ultricies Corporation",
+  "user_rating": 4,
+  "cast": "Alwyn Androck, Amandi Washtell, Orelie Stanyon, Benjamen Kynsey, Page Clemits, Nannie Turtle, Channa Thaxton, Paulina Sturzaker, Valentina Maultby",
+  "genre": "Animation",
+  "country": "Albania",
+  "rating": "PG-13",
+  "language": "Italian",
+  "director": "Simone Wiggins"
+},{
+  "_id": {
+    "$oid": "5fb73ff08965a24c9c8f239c"
+  },
+  "movie_id": 83,
+  "title": "eget, ipsum. Donec sollicitudin adipiscing",
+  "box_office": 68493668,
+  "release_date": "10/28/2010",
+  "studio": "Eros Nam Limited",
+  "user_rating": 6,
+  "cast": "Querida Nucciotti, Janith Dibner",
+  "genre": "Animation",
+  "country": "South Africa",
+  "rating": "R",
+  "language": "French",
+  "director": "Hamilton Dorsey"
+},{
+  "_id": {
+    "$oid": "5fb73ff68965a24c9c8f239d"
+  },
+  "movie_id": 84,
+  "title": "aliquam eu, accumsan sed, facilisis",
+  "box_office": 92170686,
+  "release_date": "06/12/1990",
+  "studio": "Justo Sit Amet Inc.",
+  "user_rating": 3,
+  "cast": "Cad Maha, Nessie Vineall, Myrtia Gasker, Leo Phillipp, Talbert Hollingdale",
+  "genre": "Comedy",
+  "country": "Tajikistan",
+  "rating": "PG-13",
+  "language": "French",
+  "director": "Basil Morrow"
+},{
+  "_id": {
+    "$oid": "5fb73ffd8965a24c9c8f239e"
+  },
+  "movie_id": 85,
+  "title": "a tortor. Nunc commodo auctor",
+  "box_office": 93769195,
+  "release_date": "09/17/1975",
+  "studio": "Vulputate Company",
+  "user_rating": 5,
+  "cast": "Erinn Officer, Quinlan Heakins, Timoteo Poyntz, Della Lidyard, Hamish MacTeague, Camey Garrigan, Caria Baccas",
+  "genre": "War",
+  "country": "Portugal",
+  "rating": "PG",
+  "language": "Hindu",
+  "director": "Scarlet Chandler"
+},{
+  "_id": {
+    "$oid": "5fb740038965a24c9c8f239f"
+  },
+  "movie_id": 86,
+  "title": "nisi magna sed dui. Fusce",
+  "box_office": 55265497,
+  "release_date": "02/22/2010",
+  "studio": "Justo Faucibus Ltd",
+  "user_rating": 3,
+  "cast": "Camey Garrigan, Pat Kersey",
+  "genre": "Comedy",
+  "country": "China",
+  "rating": "PG-13",
+  "language": "Mandarin",
+  "director": "Chaney Burris"
+},{
+  "_id": {
+    "$oid": "5fb7400a8965a24c9c8f23a0"
+  },
+  "movie_id": 87,
+  "title": "vitae nibh. Donec est mauris,",
+  "box_office": 33008466,
+  "release_date": "03/19/1978",
+  "studio": "Sed Est Nunc Company",
+  "user_rating": 4,
+  "cast": "Franny Walduck, Maribelle Murgatroyd, Della Lidyard, Thedric Toogood, Quill Godfroy, Julee Leve, Emili Scales, Daven Ingledew, Goldia Duffie, Trenna Whitehouse",
+  "genre": "Horror",
+  "country": "Ireland",
+  "rating": "NC-17",
+  "language": "Korean",
+  "director": "Aretha Ewing"
+}]
